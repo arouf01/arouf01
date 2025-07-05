@@ -1,6 +1,6 @@
 <!--Banner-->
 
-![abdur_rouf Banner Image](https://i.ibb.co/wFVkBTQq/Black-and-Yellow-Web-Developer-Linked-In-Banner.png)
+![abdur_rouf Banner Image](https://i.ibb.co/gMnY5zW8/Abdur-Rouf-Github-Banner.png)
 
 <!--Night Owl image-->
 <div>
@@ -97,7 +97,7 @@ _JavaScript Developer | Web Automation Specialist_
     <img src="https://cdn-icons-png.flaticon.com/128/733/733553.png" width="40" alt="GitHub" />
   </a>
   <a href="https://www.fiverr.com/dev_abdur_rouf" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968705.png" width="40" alt="Fiverr" />
+    <img src="https://i.ibb.co/Cp4W7x5r/fiverr-removebg-preview.png" width="40" alt="Abdur Rouf - Fiverr" />
   </a>
 </div>
 
