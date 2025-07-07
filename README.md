@@ -98,5 +98,6 @@ I'm a Zoho CRM and Creator App Developer with deep experience in JavaScript, web
 
 <!--Footer-->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8200DB&height=65&section=footer" />
 </p>
+
