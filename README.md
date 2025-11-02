@@ -14,7 +14,7 @@ _JavaScript Developer | Web Automation Specialist_
 
 <!--Start Intro-->
 <p align="left">
-I'm a Zoho CRM and Creator App Developer with deep experience in JavaScript, web design, automation, and integrating business applications for global clients. I work with Deluge, React.js, Node.js, REST APIs, and enjoy solving business workflow problems through smart automation.
+Hi, I'm Abdur Rouf. I'm An experienced Zoho one and javascript Developer with over 5years of experience who is proficient in customizing and automating business processes with expertise in Zoho applications like CRM, Books, Campaigns, Forms,Mail, SalesIQ and Deluge scripting. I'm Passionate about delivering efficient solutions and integrating Zoho applications to optimize workflows and drive business success
 </p>
 
 ### 🚀 Quick Facts
