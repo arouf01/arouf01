@@ -21,7 +21,7 @@ Hi, I'm Abdur Rouf. I'm An experienced Zoho one and javascript Developer with ov
 - 🌱 Learning: JavaScript, React, Node.js, Express, MongoDB, PHP
 - 🔗 Working with: [Bit Code Technologies Limited](https://bitcode.pro/)
 - 💻 Freelancer: [Fiverr](https://www.fiverr.com/dev_abdur_rouf)
-- 📬 Email: work.abdur.rouf@gmail.com
+- 📬 Email: arouf@advanced-it.top
 - 📱 WhatsApp: +8801749569015
 - 🧑‍💻 GitHub: [@arouf01](https://github.com/arouf01)
 
