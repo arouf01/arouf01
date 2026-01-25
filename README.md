@@ -43,8 +43,8 @@ Hi, I'm Abdur Rouf. I'm An experienced Zoho one and javascript Developer with ov
 ### 💡 Highlighted Projects
 <ul>
   <li><a href="http://advanced-it.top/" target="_blank"><strong>Advanced IT</strong></a></li>
-  <li><a href="https://todayfoodmenu.web.app/" target="_blank"><strong>Today Food Menu</strong></a></li>
-  <li><a href="https://web-json-formatter.web.app/" target="_blank"><strong>JSON Formatter</strong></a></li>
+  <li><a href="https://foodmenu.advanced-it.top/" target="_blank"><strong>Today Food Menu</strong></a></li>
+  <li><a href="https://json.advanced-it.top/" target="_blank"><strong>JSON Formatter</strong></a></li>
 </ul>
 
 ---
