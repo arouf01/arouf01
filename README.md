@@ -81,7 +81,7 @@ Hi, I'm Abdur Rouf. I'm An experienced Zoho one and javascript Developer with ov
 
 ### 🤝 Let's Connect
 <div align="center">
-  <a href="mailto:work.abdur.rouf@gmail.com" target="_blank">
+  <a href="mailto:arouf@advanced-it.too" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" width="40" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/abdur-rouf-ar/" target="_blank">
