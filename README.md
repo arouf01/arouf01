@@ -21,7 +21,7 @@ Hi, I'm Abdur Rouf. I'm An experienced Zoho one and javascript Developer with ov
 - 🌱 Learning: JavaScript, React, Node.js, Express, MongoDB, PHP
 - 🔗 Working with: [Bit Code Technologies Limited](https://bitcode.pro/)
 - 💻 Freelancer: [Fiverr](https://www.fiverr.com/dev_abdur_rouf)
-- 📬 Email: arouf@advanced-it.top
+- 📬 Email: arouf@a1zohosolutions.com
 - 📱 WhatsApp: +8801749569015
 - 🧑‍💻 GitHub: [@arouf01](https://github.com/arouf01)
 
@@ -42,9 +42,9 @@ Hi, I'm Abdur Rouf. I'm An experienced Zoho one and javascript Developer with ov
 
 ### 💡 Highlighted Projects
 <ul>
-  <li><a href="http://advanced-it.top/" target="_blank"><strong>Advanced IT</strong></a></li>
-  <li><a href="https://foodmenu.advanced-it.top/" target="_blank"><strong>Today Food Menu</strong></a></li>
-  <li><a href="https://json.advanced-it.top/" target="_blank"><strong>JSON Formatter</strong></a></li>
+  <li><a href="http://a1zohosolutions.com/" target="_blank"><strong>A1 Zoho Solutions</strong></a></li>
+  <li><a href="https://foodmenu.a1zohosolutions.com/" target="_blank"><strong>Today Food Menu</strong></a></li>
+  <li><a href="https://json.a1zohosolutions.com/" target="_blank"><strong>JSON Formatter</strong></a></li>
 </ul>
 
 ---
@@ -81,7 +81,7 @@ Hi, I'm Abdur Rouf. I'm An experienced Zoho one and javascript Developer with ov
 
 ### 🤝 Let's Connect
 <div align="center">
-  <a href="mailto:arouf@advanced-it.top" target="_blank">
+  <a href="mailto:arouf@a1zohosolutions.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" width="40" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/abdur-rouf-ar/" target="_blank">
